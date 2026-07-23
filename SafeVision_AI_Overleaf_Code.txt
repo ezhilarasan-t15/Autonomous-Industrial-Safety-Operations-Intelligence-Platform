@@ -1,0 +1,44 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\title{\textbf{SafeVision AI}\\Autonomous Industrial Safety \& Operations Intelligence Platform}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Project Overview}
+SafeVision AI is an AI-powered industrial safety platform that combines computer vision, IoT devices, and real-time monitoring to improve workplace safety and operational efficiency. It continuously monitors machines, workers, and critical infrastructure to detect risks before they become major incidents.
+
+\section*{Key Features}
+\begin{itemize}
+    \item AI-based machine health monitoring
+    \item Worker safety and PPE detection
+    \item Fire and smoke detection
+    \item Smart maintenance task assignment
+    \item Generator fuel and UPS monitoring
+    \item AI-guided emergency evacuation
+    \item Unified real-time monitoring dashboard
+\end{itemize}
+
+\section*{How It Works}
+AI cameras and sensors monitor the factory continuously. When a safety issue is detected, the system analyzes the event, alerts the nearest maintenance team, updates display boards and speakers, and guides workers through safe actions. During emergencies, SafeVision AI provides intelligent evacuation guidance and real-time monitoring from a central dashboard.
+
+\section*{Technology Stack}
+React, Tailwind CSS, Java Spring Boot, MySQL, Computer Vision (YOLO/OpenCV), IoT Sensors, AI Analytics.
+
+\section*{Expected Impact}
+\begin{itemize}
+    \item Reduce workplace accidents
+    \item Minimize machine downtime
+    \item Improve emergency response
+    \item Increase operational efficiency
+    \item Enhance worker safety
+\end{itemize}
+
+\vspace{0.5cm}
+\textbf{Tagline:} \emph{Predict. Protect. Prevent.}
+
+\end{document}
